@@ -64,7 +64,7 @@ export default function Home() {
         onSubmit={handleSubmit}
       >
         <label htmlFor="salario" className="block text-lg font-medium text-gray-700 mb-2">
-          Salário (R$):
+          Salário (R$) :
         </label>
         <div className="relative mb-4">
           <span className="absolute inset-y-0 left-0 flex items-center pl-3 text-gray-600">
